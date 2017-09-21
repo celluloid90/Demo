@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo From Shahin</string>
+    <string name="send_to">Share</string>
+    <string name="title">Demo from Shahin</string>
+    <string name="image_saved">Successfully saved Image</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="insert_image_info">Insert image info</string>
+    <string name="image_des_input">Enter image description</string>
+    <string name="image_title_input">Enter image title</string>
+</resources>
